@@ -1,12 +1,10 @@
 {
   "name": "tutorbridge",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "lucide-react": "^0.383.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+  "description": "TutorBridge - Connecting Students with the Right Tutors",
+  "engines": {
+    "node": ">=18 <21"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,10 +12,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
   },
   "browserslist": {
     "production": [
