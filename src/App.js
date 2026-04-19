@@ -4,7 +4,7 @@ import Loader from './components/Loader';
 import TypographySample from './pages/TypographySample';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import WhatsAppCta from './components/WhatsAppCta';
+
 import WhatsAppIcon from './components/WhatsAppIcon';
 import About from './components/About';
 import Packages from './components/Packages';
